@@ -1,4 +1,4 @@
-<h1 align="center">It`s a <a href="https://github.com/mofee1/AScript" target="_blank">Ultra.m</a></h1>
+<h1 align="center">It`s a <a href="https://github.com/mofee1/AScript" target="_blank">UltraM</a></h1>
 <h3 align="left" text-align"center"> &#129527; Зависимости:</h3>
 <p>• Sampfuncs - <a href="https://www.blast.hk/threads/17/#post-50">link</a><br>
   • Moonloader - <a href="https://www.blast.hk/threads/13305/#post-118440">link</a><br>
