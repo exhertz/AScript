@@ -6,3 +6,6 @@
   • fAwesome5 - <a href="https://github.com/ImmortalLua/Library/blob/master/fAwesome5.lua">link</a><br></p>
 <h3 align="left" text-align"center"> Функции:</h3>
 <p>• А-Формы<br>• А-Рекон<br>• Авто-репорт<br>• Работа с трейсерами<br>• Исправления багов игры<br>• Кастомизация /dl, /leaders, /ot<br>• Перехват RPC<br>• Прочее(флудер, фаст меню, Nf)</p>
+<h3 align="left" text-align"center"> Версии:</h3>
+<p>• Актуальная - <a href="https://github.com/mofee1/AScript/raw/main/AScript.luac">download</a><br>
+  • Старая v1.10 - <a href="https://www.blast.hk/threads/13305/#post-118440">link</a><br></p>
