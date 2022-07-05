@@ -1,4 +1,5 @@
 <h1 align="center">It`s a <a href="https://github.com/mofee1/AScript" target="_blank">AScript</a></h1>
+<h4 color="red" align="left" text-align"center"> Поддержка приложения прекращена<br>:(</h4>
 <h3 align="left" text-align"center"> Зависимости:</h3>
 <p>• Sampfuncs - <a href="https://www.blast.hk/threads/17/#post-50">link</a><br>
   • Moonloader - <a href="https://www.blast.hk/threads/13305/#post-118440">link</a><br>
